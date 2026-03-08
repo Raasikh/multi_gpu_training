@@ -17,8 +17,7 @@ What This Project Teaches You:
 5. HOW does combining them give 3.7x throughput? → Measured improvement
 
 NOTE: This is a SIMULATION. Real multi-GPU training requires actual GPU hardware.
-This project models the math, bottlenecks, and optimizations so you can explain
-them fluently in an interview. The throughput model is based on published
+This project models the math, bottlenecks, and optimizations. The throughput model is based on published
 benchmarks from NVIDIA, DeepSpeed, and PyTorch FSDP papers.
 
 Runs in VS Code (# %% cells) or Google Colab. No GPU required.
